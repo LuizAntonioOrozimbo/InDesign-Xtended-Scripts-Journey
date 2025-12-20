@@ -1,6 +1,6 @@
 # InDesign XtendedScript Journey
 
-Bem-vindo ao **InDesign Xtended Script Journey** — repositório dedicado ao estudo de automação do Adobe InDesign usando JavaScript / ExtendScript (`.jsx`).  
+Bem-vindo ao **InDesign XtendedScript Journey** — repositório dedicado ao estudo de automação do Adobe InDesign usando JavaScript / ExtendScript (`.jsx`).  
 Este espaço é a minha jornada de aprendizado: aulas, exercícios, projetos, snippets e materiais de referência para dominar a automação de documentos e fluxos de publicação no InDesign.
 Você está convidado a participar e até colaborar com esta aventura.  
 
